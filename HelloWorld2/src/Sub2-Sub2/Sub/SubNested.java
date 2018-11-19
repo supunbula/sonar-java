@@ -5,8 +5,17 @@ public class SubNested {
         String test= "Test String";
 		
 		for (int i=0; i<10;i++) {
-			
-			test = test + i.toString();
+			if(i == 1) {
+				test = i.toString();
+				break;
+			}
 		}
+		
+		HelloWorld(test);
     }
+	
+	public static String HelloWorld(String text){
+		
+		return "Hello" + text;
+	}
 }

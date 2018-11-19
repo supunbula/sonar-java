@@ -1,6 +1,0 @@
-projectKey=my:hw
-serverUrl=http://kotiya.eastus.cloudapp.azure.com
-serverVersion=6.7.5.38563
-dashboardUrl=http://kotiya.eastus.cloudapp.azure.com/dashboard/index/my:hw
-ceTaskId=AWcpgh9g7WXQG5rQt6Dp
-ceTaskUrl=http://kotiya.eastus.cloudapp.azure.com/api/ce/task?id=AWcpgh9g7WXQG5rQt6Dp
