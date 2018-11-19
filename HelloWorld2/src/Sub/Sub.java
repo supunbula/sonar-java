@@ -1,6 +1,6 @@
 public class Sub {
 
     public static void main(String[] args) {
-        System.out.println("Hello World from Dev Tavern.");
+        System.out.println("Hello World from Dev Tavern Admin.");
     }
 }
