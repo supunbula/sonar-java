@@ -14,7 +14,7 @@ public class SubNested {
 		HelloWorld(test);
     }
 	
-	public static String HelloWorld(String text){
+	public static String helloWorld(String text){
 		
 		return "Hello" + text;
 	}
